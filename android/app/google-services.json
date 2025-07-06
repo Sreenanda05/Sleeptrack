@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460530340095",
+    "project_id": "sleeptrack-958b9",
+    "storage_bucket": "sleeptrack-958b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460530340095:android:7374f7bc9b299df7cb3cca",
+        "android_client_info": {
+          "package_name": "com.sleepcompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_7qNwvpiOCHJKcc0Jiett6dgxPrwsds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sleeptracker",
+  "name": "Sleep Tracker",
+  "icon": "sleeptracker-icon.png",
+  "version": "0.01",
+  "description": "Tracks your sleep phases and lets a companion app sync the data.",
+  "tags": ["health", "sleep", "tracker"],
+  "author": "You",
+  "storage": [
+    { "name": "sleeptracker.app.js", "url": "sleeptracker.app.js" }
+  ],
+  "supports": ["BANGLEJS", "BANGLEJS2"],
+  "read": ["sleepdata.json"],
+  "write": ["sleepdata.json"]
+}
